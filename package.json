@@ -1,0 +1,24 @@
+{
+  "name": "mysecondrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaitanyaJonnadula457/mysecondrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaitanyaJonnadula457/mysecondrepo/issues"
+  },
+  "homepage": "https://github.com/ChaitanyaJonnadula457/mysecondrepo#readme",
+  "dependencies": {
+    "os": "^0.1.2",
+    "shelljs": "^0.8.5",
+    "winston": "^3.8.1"
+  }
+}
